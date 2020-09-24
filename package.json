@@ -1,0 +1,26 @@
+{
+  "name": "dofus-protocol",
+  "version": "1.0.0",
+  "description": "Protocol Dofus",
+  "main": "protocol.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vicfou-dev/dofus-protocol.git"
+  },
+  "keywords": [
+    "dofus",
+    "protocol"
+  ],
+  "author": "Vicfou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vicfou-dev/dofus-protocol/issues"
+  },
+  "homepage": "https://github.com/Vicfou-dev/dofus-protocol#readme",
+  "dependencies": {
+    "bytearray-node": "^3.3.0"
+  }
+}
